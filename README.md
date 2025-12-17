@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on a [Bootstrap Twig Components Bundle](https://github.com/codeschubser/bootstrap-twig-components-bundle)
+- 🔭 I’m currently working on a [Bootstrap Twig Components Bundle](https://github.com/mitopp/bootstrap-twig-components-bundle)
 
 ### working with
 
